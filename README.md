@@ -28,4 +28,5 @@ To do this I use a custom function to find we the noise the highest (I don't kno
 ![cipher_embedded_img](https://github.com/bugra-yildiz/AES-ciphered-bits-embedder-to-image-with-LSB/assets/42612286/4c95f90f-07bb-4a55-a39a-1312adacf46c)
 
 
-## Highlighted Places of Embeding
+## Highlighted Places of Embeding (White box on the rigth)
+![selected_pixels](https://github.com/bugra-yildiz/AES-ciphered-bits-embedder-to-image-with-LSB/assets/42612286/e347c889-6342-4de7-a476-2a466db9c635)
